@@ -1,0 +1,10 @@
+D:\POSTG\Yolo-FastestV2-main\val\2023-09-08_15-34-41_137.jpg
+D:\POSTG\Yolo-FastestV2-main\val\2023-09-08_15-35-00_849.jpg
+D:\POSTG\Yolo-FastestV2-main\val\2023-09-08_15-35-01_073.jpg
+D:\POSTG\Yolo-FastestV2-main\val\2023-09-08_15-35-01_265.jpg
+D:\POSTG\Yolo-FastestV2-main\val\2023-09-08_15-35-01_441.jpg
+D:\POSTG\Yolo-FastestV2-main\val\2023-09-08_15-35-01_617.jpg
+D:\POSTG\Yolo-FastestV2-main\val\2023-09-08_15-35-01_793.jpg
+D:\POSTG\Yolo-FastestV2-main\val\2023-09-08_15-35-30_817.jpg
+D:\POSTG\Yolo-FastestV2-main\val\2023-09-08_15-35-31_617.jpg
+D:\POSTG\Yolo-FastestV2-main\val\2023-09-08_15-35-32_865.jpg
